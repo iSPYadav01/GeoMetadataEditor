@@ -1,0 +1,21 @@
+model,Redmi Note 13 5G
+latitude,26.385997702775935
+longitude,83.29131024700003
+timestamp,2025:01:07 13:29:08
+lat_ref,North
+long_ref,East
+altitude,31
+Make,Xiaomi
+Software,MediaTek Camera Application
+XResolution,72
+YResolution,72
+ResolutionUnit,2
+Orientation,1
+FocalLength,359
+ApertureValue,10
+ExposureTime,1/105
+ExposureProgram,0
+MeteringMode,5
+ISOSpeedRatings,100
+WhiteBalance,0
+SceneCaptureType,0

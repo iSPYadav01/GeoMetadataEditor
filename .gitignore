@@ -1,0 +1,6 @@
+# .gitignore
+*.pyc
+__pycache__/
+input/sample.jpg
+output/*
+!.gitkeep
